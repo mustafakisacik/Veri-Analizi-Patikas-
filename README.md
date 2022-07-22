@@ -1,6 +1,5 @@
 # Veri-Analizi-Patikası
 https://app.patika.dev/
-Patika.dev - Insertion Sort Projesi
 
 # Insertion Sort Projesi
 
