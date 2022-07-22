@@ -1,2 +1,2 @@
-# Veri-Analizi-Patikas-
+# Veri-Analizi-Patikası-
 https://app.patika.dev/
